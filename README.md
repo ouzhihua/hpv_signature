@@ -18,5 +18,5 @@ The evhpv package was created by Zhihua Ou. Contact: ouzhihua@genomics.cn
 
   
  ***  
-### This package was linked with the following manuscript:
+### This package is linked with the following manuscript:
 Ou, Z.; Chen, Z.; Zhao, Y.; Lu, H.; Liu, W.; Li, W.; Geng, C.; Hu, G.; Wang, X.; Ren, P.; Liu, N.; Zhu, S.; Lu, L.; Li, J. Genetic Signatures for Lineage/Sublineage Classification of HPV16, 18, 52 and 58 Variants; preprint, 2020. https://doi.org/10.1101/2020.07.30.229112.
