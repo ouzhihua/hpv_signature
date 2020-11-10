@@ -1,2 +1,5 @@
 # hpv_signature
-This 
+This
+
+# install the evhpv R package
+install.packages(file.choose(), repos = NULL, type="source")
