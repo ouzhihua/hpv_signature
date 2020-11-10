@@ -7,7 +7,7 @@ The evhpv package supports the following analytical procedure:
   
 
 ### Install the evhpv R package
-Download the zipped file and open RStudio, run the following command:
+Download evhpv_0.1.1.tar.gz, start RStudio, run the following command:
 `install.packages(file.choose(), repos = NULL, type="source")`
 
   
